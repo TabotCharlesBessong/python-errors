@@ -1,0 +1,1 @@
+error1 = [{"attributeError":"AttributeError: partially initialized module 'turtle' has no attribute 'Turtle' (most likely due to a circular import). Did you mean: 'turtle'?"},{"answer":"you have saved the file as the name of the package , this will instead import the file and not the package"}]
